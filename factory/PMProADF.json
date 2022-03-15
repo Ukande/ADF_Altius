@@ -1,0 +1,9 @@
+{
+	"name": "PMProADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6a20ad8-7c5a-4db2-9559-f2c5a3e36f88",
+		"tenantId": "8c16dcfa-c220-49c8-b353-6a58eef53416"
+	}
+}
